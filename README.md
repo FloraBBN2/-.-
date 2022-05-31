@@ -22,5 +22,5 @@ Liste des datasets disponibles:
 https://docs.google.com/presentation/d/1a8OtQhCPX9lW3Lvj_8BjTw1sFn37L6k6/edit?usp=sharing&ouid=105505250927185317933&rtpof=true&sd=true
 
 Bases de données téléchargeables:
-https://wetransfer.com/downloads/37c52860ee12fd451cf9c48df46c3fd020220530091934/099bdf6d9a624b490f9c60a361b97de020220530091950/e03e64
+(https://drive.google.com/drive/folders/1Lx-wgHF1IH3ha6RTy6CSzWzkBATS29r4?usp=sharing)
 
